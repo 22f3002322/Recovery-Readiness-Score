@@ -1,0 +1,8 @@
+Day,Sleep_Hours,HRV_ms,RHR_bpm,Respiratory_Rate,Skin_Temperature_C,Training_Load,Lifestyle_Score,Recovery_Score
+Mon,6.5,45,65,15.5,36.6,8,-10,44
+Tue,7.2,50,66,15.7,36.7,6,-5,56
+Wed,5.8,42,68,16.2,37.1,4,-15,38
+Thu,8.1,60,64,15.1,36.5,9,0,68
+Fri,6.9,55,65,15.3,36.6,7,-3,60
+Sat,7.5,62,63,14.9,36.4,3,2,76
+Sun,7.8,64,62,15.0,36.5,2,5,83
