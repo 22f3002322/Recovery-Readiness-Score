@@ -13,6 +13,7 @@ This project proposes a personalized recovery readiness scoring system using dat
 ## 📁 Structure
 - `report/`: The full report (DOCX format)
 - `visuals/`: Charts, UI mockups, and diagrams
+- `dara/`: Simulated Data used for analysis 
 
 ## 📌 Submission Info
 This was completed as part of the Data Shastri assessment task.
